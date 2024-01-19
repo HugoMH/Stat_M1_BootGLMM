@@ -1,0 +1,342 @@
+Country,Location,Suicides,Temperature
+Brazil,Belo Horizonte,843,22
+Brazil,Brasilia,622,21.3
+Brazil,Campo Grande,266,25.8
+Brazil,Curitiba,635,17.6
+Brazil,Fortaleza,886,27
+Brazil,Maceio,169,24.9
+Brazil,Manaus,442,27.1
+Brazil,Natal,140,19.7
+Brazil,Porto Alegre,800,19.7
+Brazil,Salvador,178,25.7
+Brazil,Sao Paulo,3301,20.3
+Brazil,Teresina,301,27.6
+Brazil,Vitoria,218,26.8
+Canada,Abbotsford,253,10.7
+Canada,Calgary,1656,4.6
+Canada,Edmonton,2290,4.8
+Canada,Halifax,566,6.4
+Canada,Hamilton,536,7.9
+Canada,Kingston,313,7.4
+Canada,Kitchener - Waterloo,426,7.1
+Canada,London,581,8
+Canada,Montreal,4022,6.7
+Canada,Niagara,621,9.1
+Canada,Oakville,384,8.3
+Canada,Oshawa,453,7.6
+Canada,Ottawa,1281,6.4
+Canada,Regina,426,3.4
+Canada,Saint John NB,276,5.1
+Canada,Sarnia,179,8.7
+Canada,Saskatoon,456,2.7
+Canada,Sault Ste. Marie,218,4.9
+Canada,St. John NFL,275,4.8
+Canada,Sudbury,429,4.1
+Canada,Thunder bay,328,2.9
+Canada,Toronto,4896,8.1
+Canada,Vancouver,2450,10.6
+Canada,Victoria,496,10.2
+Canada,Windsor,524,9.9
+Canada,Winnipeg,1284,3.1
+Japan,Aichi,46915,15.7
+Japan,Akita,15016,11.7
+Japan,Aomori,14835,10.3
+Japan,Chiba,37585,15.7
+Japan,Ehime,12820,16.3
+Japan,Fukui,6305,14.5
+Japan,Fukuoka,39820,16.9
+Japan,Fukushima,17515,13
+Japan,Gifu,16552,15.8
+Japan,Gunma,17283,14.5
+Japan,Hiroshima,21819,15.9
+Japan,Hokkaido,47342,8.8
+Japan,Hyogo,42307,16.3
+Japan,Ibaraki,21673,13.6
+Japan,Ishikawa,8731,14.6
+Japan,Iwate,16034,10.2
+Japan,Kagawa,7786,16.1
+Japan,Kagoshima,16712,18.3
+Japan,Kanagawa,52862,15.7
+Japan,Kochi,8019,16.9
+Japan,Kumamoto,15142,16.8
+Japan,Kyoto,19373,15.8
+Japan,Mie,12964,15.8
+Japan,Miyagi,17308,12.4
+Japan,Miyazaki,11839,17.5
+Japan,Nagano,17761,11.9
+Japan,Nagasaki,12655,17.1
+Japan,Nara,9058,14.8
+Japan,Niigata,26981,13.8
+Japan,Oita,10164,16.3
+Japan,Okayama,13825,15.9
+Japan,Okinawa,10063,22.9
+Japan,Osaka,68076,16.8
+Japan,Saga,6958,16.5
+Japan,Saitama,45259,14.9
+Japan,Shiga,8977,14.6
+Japan,Shimane,8270,14.8
+Japan,Shizuoka,25607,16.5
+Japan,Tochigi,16532,13.7
+Japan,Tokushima,6315,16.5
+Japan,Tokyo,87045,16.2
+Japan,Tottori,5156,14.8
+Japan,Toyama,10355,14
+Japan,Wakayama,9975,16.6
+Japan,Yamagata,11630,11.7
+Japan,Yamaguchi,13966,15.3
+Japan,Yamanashi,7161,14.6
+South Korea,Busan,16111,14.9
+South Korea,Daegu,9637,14.4
+South Korea,Daejeon,5812,13
+South Korea,Gwangju,4913,14
+South Korea,Incheon,11535,12.4
+South Korea,Seoul,35817,12.8
+Philippines,Cebu,254,28
+Philippines,Davao,214,28.3
+Philippines,Manila,509,28.6
+Philippines,Quezon,290,27.4
+South Africa,Alfred Nzo,89,16.6
+South Africa,Amathole,200,17.9
+South Africa,Bojanala,69,18.7
+South Africa,Buffalo City,37,12.4
+South Africa,Cape Winelands,85,15.8
+South Africa,Capricorn,30,19.3
+South Africa,Chris Hani,59,15.6
+South Africa,City of Cape Town,439,17.8
+South Africa,City of Johannesburg,74,16.5
+South Africa,City of Tshwane,117,16.1
+South Africa,Dr Kenneth Kaunda,60,18.2
+South Africa,Dr Ruth Segomotsi Mompati,35,20
+South Africa,Eden,174,17.7
+South Africa,Ehlanzeni,255,20.4
+South Africa,Ekurhuleni,49,16.3
+South Africa,Frances Baard,135,18.9
+South Africa,Gert Sibande,197,16.4
+South Africa,Joe Gqabi,45,16
+South Africa,Lejweleputswa,130,17.1
+South Africa,Mangaung,113,16.6
+South Africa,Mopani,293,21.7
+South Africa,Namakwa,47,18.8
+South Africa,Nelson Mandela Bay,149,17.7
+South Africa,Ngaka Modiri Molema,240,19.8
+South Africa,Nkangala,65,16.1
+South Africa,O. R. Tambo,59,17.1
+South Africa,Overberg,73,16.9
+South Africa,Pixley ka Seme,77,18.1
+South Africa,Sisonke,326,14.2
+South Africa,Siyanda,312,20.6
+South Africa,Thabo Mofutsanyane,46,14.9
+South Africa,Ugu,110,21.2
+South Africa,West Coast,38,19.2
+South Africa,eThekwini,96,21.5
+South Africa,uMgungundlovu,175,14.1
+South Africa,uMkhanyakude,90,22.5
+South Africa,uMzinyathi,208,16.1
+South Africa,uThukela,58,15.6
+South Africa,uThungulu,274,22.7
+Spain,A Coruna,532,15
+Spain,Albacete,227,14.5
+Spain,Alicante,585,18.4
+Spain,Almeria,321,19.1
+Spain,Avila,63,11.2
+Spain,Badajoz,141,17.2
+Spain,Barcelona,2578,16.4
+Spain,Bilbao,662,14.8
+Spain,Burgos,308,10.9
+Spain,Caceres,99,16.4
+Spain,Cadiz,242,18.6
+Spain,Castellon,317,17.8
+Spain,Ciudad Real,88,15.8
+Spain,Cordoba,489,18.3
+Spain,Cuenca,87,13.4
+Spain,Girona,117,15
+Spain,Granada,520,21.3
+Spain,Guadalajara,94,13.4
+Spain,Huelva,186,18.3
+Spain,Huesca,103,14.2
+Spain,Jaen,233,17
+Spain,Palmas G. Canaria,671,21.3
+Spain,Leon,223,11.1
+Spain,Lleida,238,15.2
+Spain,Logrono,296,14.1
+Spain,Lugo,228,12.1
+Spain,Madrid,2180,15.2
+Spain,Malaga,1113,18.7
+Spain,Palma Mallorca,553,16.8
+Spain,Melilla,66,19.1
+Spain,Murcia,585,18.8
+Spain,Ourense,233,15.1
+Spain,Oviedo,517,13.3
+Spain,Pamplona,413,13.1
+Spain,Pontevedra,133,14.8
+Spain,Salamanca,242,12.3
+Spain,San Sebastian,344,13.7
+Spain,Santander,207,14.6
+Spain,Segovia,78,12.4
+Spain,Sevilla,1173,19.5
+Spain,Soria,105,11.1
+Spain,Tarragona,226,17.9
+Spain,Tenerife,337,21.6
+Spain,Teruel,67,12.3
+Spain,Toledo,82,16
+Spain,Valencia,1458,18.5
+Spain,Valladolid,605,12.9
+Spain,Vitoria,447,11.9
+Spain,Zamora,110,13.3
+Spain,Zaragoza,1076,15.7
+Switzerland,Basel-Stadt,1435,9.7
+Switzerland,Berne,3366,9.4
+Switzerland,Geneva,1341,9.9
+Switzerland,Vaud,2081,10.8
+Switzerland,Ticino,670,8.6
+Switzerland,Lucerne,1019,12.9
+Switzerland,St. Gallen,1533,11.3
+Switzerland,Zurich,4577,11
+Taiwan,Kaohsiung,5050,25.2
+Taiwan,Taichung,3352,23.6
+Taiwan,Taipei,9481,23.2
+UK,East,7502,10.4
+UK,East Midlands,6120,10
+UK,London,8976,11.6
+UK,North East,3806,9.4
+UK,North West,11074,10
+UK,South East,12089,10.7
+UK,South West,8011,10.6
+UK,Wales,5329,10.2
+UK,West Midlands,7438,10
+UK,Yorkshire & Humber,7770,9.9
+USA,"Akron, OH",367,10.2
+USA,"Albuquerque, NM",620,14.6
+USA,"Allentown-Bethlehem, PA",227,11.1
+USA,"Atlanta, GA",1603,17
+USA,"Atlantic City, NJ",134,12.6
+USA,"Austin, TX",605,21
+USA,"Bakersfield, CA",419,18.8
+USA,"Baltimore, MD",731,13.2
+USA,"Barnstable-Yarmouth, MA",120,10.7
+USA,"Baton Rouge, LA",221,20.1
+USA,"Bergen-Passaic, NJ",474,13.1
+USA,"Birmingham, AL",649,17.4
+USA,"Boston, MA",957,11
+USA,"Brownsville, TX",116,24
+USA,"Buffalo, NY",381,9.5
+USA,"Canton-Massillon, OH",213,10.2
+USA,"Charleston, WV",173,13.3
+USA,"Charlotte, NC",420,15.8
+USA,"Chattanooga, TN",206,16.3
+USA,"Chicago, IL",2886,10.4
+USA,"Cincinnati, OH",513,12.6
+USA,"Cleveland, OH",1197,10.7
+USA,"Columbia, SC",326,17.8
+USA,"Columbus, OH",658,12
+USA,"Dallas, TX",1263,19.4
+USA,"Dayton, OH",395,11.3
+USA,"Daytona Beach, FL",537,21.8
+USA,"Denver, CO",1419,10.6
+USA,"Des Moines, IA",263,10.9
+USA,"Detroit, MI",2386,10.5
+USA,"Dutchess County, NY",96,10.4
+USA,"El Paso, TX",291,18.6
+USA,"Erie, PA",158,10.1
+USA,"Flint, MI",287,9.1
+USA,"Fort Myers-Cape Coral, FL",494,23.7
+USA,"Fort Pierce-Port St. Lucie, FL",327,23
+USA,"Fort Worth-Arlington, TX",917,19.1
+USA,"Fresno, CA",436,18.3
+USA,"Ft. Lauderdale, FL",1267,22.9
+USA,"Galveston, TX",208,20.5
+USA,"Gary, IN",274,10.2
+USA,"Grand Rapids, MI",292,9.4
+USA,"Greensboro, NC",269,15.2
+USA,"Greenville, SC",303,16.2
+USA,"Hamilton, OH",227,12.6
+USA,"Harrisburg-Carlisle, PA",140,12.2
+USA,"Hartford, CT",393,10.5
+USA,"Houston, TX",2072,21.1
+USA,"Indianapolis, IN",618,12.1
+USA,"Jacksonville, FL",674,20.3
+USA,"Jersey City, NJ",162,13.1
+USA,"Kansas City, MO-KS",1077,13.3
+USA,"Knoxville, TN",410,15.3
+USA,"Lakeland-Winter Haven, FL",389,22.7
+USA,"Lancaster, PA",250,12
+USA,"Lansing, MI",145,9
+USA,"Las Vegas, NV-AZ",1891,20.9
+USA,"Little Rock, AR",272,17.2
+USA,"Los Angeles, CA",4167,17.2
+USA,"Louisville, KY",525,14.7
+USA,"Lubbock, TX",172,16.4
+USA,"Madison, WI",300,8.7
+USA,"McAllen-Edinburg-Mission, TX",176,24.3
+USA,"Melbourne-Titusville-Palm Bay, FL",542,22.5
+USA,"Memphis, TN",519,17.5
+USA,"Miami, FL",1207,25
+USA,"Middlesex, NJ",244,12
+USA,"Milwaukee, WI",784,9.3
+USA,"Minneapolis-St. Paul, MN",887,8.7
+USA,"Mobile, AL",233,19.8
+USA,"Monmouth-Ocean, NJ",515,12.1
+USA,"Myrtle Beach, SC",186,17.8
+USA,"Naples, FL",210,24.1
+USA,"Nashua, NH",237,9
+USA,"Nashville, TN",458,15.7
+USA,"Nassau-Suffolk, NY",827,11.5
+USA,"New Haven-Meriden, CT",398,10.5
+USA,"New London, CT",151,10.7
+USA,"New York, NY",2642,13.5
+USA,"Newark, NJ",393,13.1
+USA,"Newburgh, NY",125,9.7
+USA,"Oakland, CA",1184,15.3
+USA,"Ocala, FL",302,21.7
+USA,"Oklahoma City, OK",570,16.2
+USA,"Omaha, NE",277,11.3
+USA,"Orange County, CA",1376,18.7
+USA,"Orlando, FL",851,22.7
+USA,"Pensacola, FL",239,20.2
+USA,"Philadelphia, PA-NJ",2580,13.6
+USA,"Phoenix, AZ",2744,24.3
+USA,"Pittsburgh, PA",868,11
+USA,"Portland, ME",165,8.2
+USA,"Portland, OR",1132,12.7
+USA,"Providence-Fall River, RI-MA",116,11.1
+USA,"Punta Gorda, FL",160,23.4
+USA,"Raleigh, NC",337,16
+USA,"Reading, PA",271,16
+USA,"Riverside-San Bernardino, CA",2037,19.1
+USA,"Rochester, NY",277,9.5
+USA,"Rockford, IL",173,9.8
+USA,"Sacramento, CA",917,16.4
+USA,"Saginaw, MI",125,8.7
+USA,"Salinas, CA",201,14.3
+USA,"Salt Lake City, UT",805,11.9
+USA,"San Antonio, TX",870,21
+USA,"San Diego, CA",1758,17.6
+USA,"San Francisco, CA",897,14.6
+USA,"San Jose, CA",737,16.4
+USA,"Sarasota-Bradenton, FL",594,23.1
+USA,"Scranton--Wilkes-Barre--Hazleton, PA",435,10.1
+USA,"Seattle, WA",1189,11.4
+USA,"Shreveport, LA",166,19.2
+USA,"Spokane, WA",396,9
+USA,"Springfield, MA",212,10.5
+USA,"St. Louis, MO-IL",1027,14.3
+USA,"Stamford-Norwalk, CT",337,11.6
+USA,"Stockton-Lodi, CA",300,16.7
+USA,"Syracuse, NY",201,9.5
+USA,"Tacoma, WA",549,12.3
+USA,"Tampa-St. Petersburg-Clearwater, FL",811,23
+USA,"Toledo, OH",316,10.6
+USA,"Trenton, NJ",108,12
+USA,"Tucson, AZ",867,21.2
+USA,"Tulsa, OK",507,16.5
+USA,"Utica-Rome, NY",122,8.3
+USA,"Ventura County, CA",445,16
+USA,"Virginia Beach, VA",766,16
+USA,"Washington, DC-MD-VA",244,14.6
+USA,"West Palm Beach-Boca Raton, FL",921,24.3
+USA,"Wichita, KS",334,14.4
+USA,"Wilmington, DE",311,12.7
+USA,"Worcester, MA",319,9.2
+USA,"York, PA",264,12.5
+USA,"Youngstown-Warren, OH",258,9.8
+Vietnam,Ho Chi Minh City,460,28.5
